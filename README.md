@@ -4,7 +4,7 @@
 - **GitHub Repository:** [https://github.com/ntkhang03/Goat-Bot-V2](https://github.com/ntkhang03/Goat-Bot-V2)
 
 ## Project Updates
-This version includes fixes by Priyansh Rajput to the FCA (Facebook Chat API) implementation.
+This version includes fixes by LocDev and DongDev to the FCA (Facebook Chat API) implementation.
 
 ### Key Modifications
 - Updated files:
@@ -15,7 +15,7 @@ This version includes fixes by Priyansh Rajput to the FCA (Facebook Chat API) im
 ### Recommendation 
 - Use updated files
 - create a blank `account.dev.txt` file
-- use node 20
+- use node 18 >= 20
 
 ## Custom Facebook API Implementation
 A custom Facebook API has been used to fix and improve the bot's functionality.
@@ -27,14 +27,11 @@ A custom Facebook API has been used to fix and improve the bot's functionality.
 
 ## Troubleshooting
 For any issues or support:
-- **Telegram:** [https://telegram.me/Priyanshrajput](https://telegram.me/Priyanshrajput)
-- **Facebook:** [https://www.facebook.com/priyanshu.rajput.official](https://www.facebook.com/priyanshu.rajput.official)
+- **Telegram:** [https://telegram.me/thanhloclatui](https://telegram.me/thanhloclatui)
+- **Facebook:** [https://www.facebook.com/loc.le.thanh04](https://www.facebook.com/loc.le.thanh04)
 
-## Additional Resources
-- **C3C Files Download:** [Download Here](https://drive.google.com/uc?id=18_iEhSEads7CAfEvJXOX99UzZ6Wrt6mK&export=download)
 
 ### Notes
-- Ensure you extract cookies from the C3C files
 - Place extracted cookies in `account.txt`
 - Follow the bot setup instructions carefully
 
